@@ -1,2 +1,2 @@
 # NimNumberGame
-Made an AI based game.
+Made an AI-based game.
